@@ -1,0 +1,52 @@
+{
+  "participants": [],
+  "schedules": [],
+  "results": [],
+  "bezzaAchievements": [],
+  "liveStatus": {
+    "activeEventId": null,
+    "activeEventName": "Belum Ada Acara Aktif",
+    "category": "-",
+    "round": "-",
+    "venue": "Padang SK Pekan Tenom",
+    "lanes": [],
+    "announcements": [
+      {
+        "id": "ann-1792898885771",
+        "time": "Pagi",
+        "message": "Papan Skor Sukan Tahunan SK Pekan Tenom 2026 telah diset semula ke rekod kosong yang bersih.",
+        "type": "info"
+      }
+    ],
+    "updatedAt": "2026-10-25T03:28:05.771Z"
+  },
+  "gallery": [],
+  "settings": {
+    "schoolName": "SK Pekan Tenom",
+    "eventTitle": "Kejohanan Olahraga Tahunan SK Pekan Tenom 2026",
+    "motto": "Kecergasan Minda, Ketangkasan Jasmani",
+    "year": 2026,
+    "location": "Padang SK Pekan Tenom, Sabah",
+    "dates": "27–28 Oktober 2026",
+    "adminPasswordHash": "6051fc84a7a0d74c225fb18a496b09952da5642e60723ecae543298edd7d82d6",
+    "logoUrl": "/logo.png",
+    "authorizedAdmins": [
+      {
+        "email": "admin@skpekantenom.edu.my",
+        "name": "Pentadbir Utama SK Pekan Tenom",
+        "role": "superadmin",
+        "passwordHash": "6051fc84a7a0d74c225fb18a496b09952da5642e60723ecae543298edd7d82d6",
+        "isAuthorized": true,
+        "createdAt": "2026-10-25T00:00:00.000Z"
+      },
+      {
+        "email": "g-64271419@moe-dl.edu.my",
+        "name": "Pegawai Teknikal MOE SK Pekan Tenom",
+        "role": "superadmin",
+        "passwordHash": "6051fc84a7a0d74c225fb18a496b09952da5642e60723ecae543298edd7d82d6",
+        "isAuthorized": true,
+        "createdAt": "2026-10-25T00:00:00.000Z"
+      }
+    ]
+  }
+}
