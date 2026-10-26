@@ -1,0 +1,6 @@
+{
+  "name": "Live Scoreboard Kejohanan Olahraga SK Pekan Tenom 2026",
+  "description": "Papan skor rasmi dan keputusan langsung Kejohanan Olahraga Tahunan SK Pekan Tenom 2026. Kedudukan pingat, acara langsung, senarai peserta, dan pencapaian murid BEZZA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

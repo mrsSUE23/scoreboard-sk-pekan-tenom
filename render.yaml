@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: sk-pekan-tenom-live-scoreboard
+    runtime: node
+    plan: starter
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/public/scoreboard
+    disk:
+      name: scoreboard-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: DATA_DIR
+        value: /var/data
+      - key: NODE_VERSION
+        value: "22"
